@@ -9,3 +9,5 @@ test branch1
 test conflict
 
 test diff
+
+go in .. 1 + 1 = 2
