@@ -6,4 +6,4 @@ Git is three line.
 
 test branch1
 
-conflict
+test conflict
