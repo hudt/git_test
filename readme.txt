@@ -12,3 +12,6 @@ test conflict
 test diff
 
 go in .. 1 + 1 = 2
+
+go in .. 1 + 1 = 2
+
