@@ -5,3 +5,5 @@ Git is three line.
 -----------------------------------
 
 test branch1
+
+test conflict
